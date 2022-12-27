@@ -1,4 +1,4 @@
-# `Stay-for-Stay`
+# `Stay for Stay`
 
 ### Project Name :
 - HomeSwap
